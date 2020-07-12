@@ -5,4 +5,7 @@ Using API numverify and RESTFul
 Performing POST Request with AJAX using jQuery
 Store all requests in database MYSQL
 used:PHP,JQuery,Bootstrap,MySQL
-![Screenshot](screen 1.png)
+![Screenshot](screen%201.png)
+![Screenshot](screen%202.png)
+![Screenshot](screen%203.png)
+![Screenshot](screen%204.png)
